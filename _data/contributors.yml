@@ -1,63 +1,16 @@
-- name: Kathy Chung
-  degree: Digital Humanities
-  github: chungkky
-
-- name: Zoe Francis
-  github: zoelynnfrancis
-
-- name: Derek Howard
-  github: derekhoward
+- name: Yue Harriet Huang
+  degree: Applied Math and Statistics
+  github: Yue1Harriet1Huang
   interests:
     - Python
+    - Machine Learning and Algorithmic Thinking
 
-- name: Serena Jeblee
-  degree: Computer Science
-  github: sjeblee
-
-- name: Luke W Johnston
-  degree: PhD, Nutritional Sciences
-  github: lwjohnst86
-  interests:
-    - R
-
-- name: John Ladan
-  degree: MMath, PhD Physics
-  github: jladan
+- name: Austin Bonsma
+  degree: Electrical Engineering
+  github: 
   interests:
     - Python
-    - Julia
-    - Javascript
-
-- name: Abigail Cabunoc Mayes
-  degree: Mozilla Science Lab
-  github: acabunoc
-
-- name: Sarah Meister
-  github: thesarahmeister
-
-- name: Ian Dennis Miller
-  degree: PhD, Psychology
-  github: iandennismiller
-  interests:
-    - Python
-    - R
-    - Social Network Analysis
-    - LaTeX
-    - Flask
-
-- name: Dano Morrison
-  github: jdpigeon
-
-- name: Raul Samayoa
-  github: ralle123
-
-- name: Brian Sutherland
-  github: bksutherland
-
-- name: Dawn Walker
-  degree: MI, iSchool
-  github: dcwalk
-
-- name: Frances Wong
-  degree: PhD Physiology
-  github: FrancesWong
+    - Scala
+    - Haskell
+    - Linux
+    
