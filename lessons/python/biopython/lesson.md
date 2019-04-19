@@ -1,20 +1,24 @@
 ---
 layout: page
-title: 'Biopython 10-minute demo'
+title: 'April Deep Learning Newsletter@Toronto Machine Learning Circles'
 visible: true
 tags:
   - python
   - intro
+  - Deep Learning
+  - Encoder-Decoder Structure
 ---
 
- - **Author**: Madeleine Bonsma
- - **Research field**: Microbial ecology - prokaryote-phage interactions
- - **Lesson topic**: Biopython - examples
+ - **Author**: Toronto Machine Learning Circles: Perry Wang, Constant 
+ - **Research field**: 
+ - **Lesson topic**: 
  - **Lesson content URL**: <https://github.com/UofTCoders/studyGroup/tree/gh-pages/lessons/python/biopython>
 
 ## Intro ##
 
-Biopython is a package designed for working with genetic sequence data in Python. 
+Constant's Site:
+
+Perry's Site:
 
 THE MOST HELPFUL resource for Biopython: http://biopython.org/DIST/docs/tutorial/Tutorial.html
 
